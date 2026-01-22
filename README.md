@@ -43,7 +43,6 @@ This project demonstrates how embedded systems, web technologies, and PWM-based 
 ESP32 GPIO → Resistor → LED Anode (+)
 LED Cathode (–) → GND
 
-
 ---
 
 ## 🌐 How It Works
@@ -70,8 +69,7 @@ SSID: ESP32_LED
 Password: 12345678
 
 4. Open a browser and go to:
-http://192.168.4.1
-
+   http://192.168.4.1
 5. Click **Light up Diya**.
 
 ---
@@ -99,7 +97,6 @@ DiyaGlow-ESP32/
 ├── Smooth_Glow_Up_LED.ino
 └── README.md
 
-
 ---
 
 ## 🚀 Future Enhancements
@@ -112,4 +109,12 @@ DiyaGlow-ESP32/
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project, provided that proper
+credit is given to the original author.
+
 **DiyaGlow-ESP32** — where technology meets tradition.
+
